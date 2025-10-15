@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arturonegrete-dev/dream-zed/stargazers">
-      <img src="https://img.shields.io/github/stars/arturonegrete-dev/dream-zed?colorA=0a0806&colorB=d4c2aa&style=for-the-badge">
+  <a href="https://github.com/arturonegrete-dev/Dream-zed/stargazers">
+      <img src="https://img.shields.io/github/stars/arturonegrete-dev/Dream-zed?colorA=0a0806&colorB=d4c2aa&style=for-the-badge">
   </a>
-  <a href="https://github.com/arturonegrete-dev/dream-zed/issues">
-    <img src="https://img.shields.io/github/issues/arturonegrete-dev/dream-zed?colorA=0a0806&colorB=d9a066&style=for-the-badge">
+  <a href="https://github.com/arturonegrete-dev/Dream-zed/issues">
+    <img src="https://img.shields.io/github/issues/arturonegrete-dev/Dream-zed?colorA=0a0806&colorB=d9a066&style=for-the-badge">
   </a>
-  <a href="https://github.com/arturonegrete-dev/dream-zed/contributors">
-    <img src="https://img.shields.io/github/contributors/arturonegrete-dev/dream-zed?colorA=0a0806&colorB=c4a882&style=for-the-badge">
+  <a href="https://github.com/arturonegrete-dev/Dream-zed/contributors">
+    <img src="https://img.shields.io/github/contributors/arturonegrete-dev/Dream-zed?colorA=0a0806&colorB=c4a882&style=for-the-badge">
   </a>
 </p>
 
@@ -185,7 +185,7 @@ Contributions are welcome! If you'd like to improve Dream theme:
 
 ### Reporting Issues
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/arturonegrete-dev/dream-zed/issues) with:
+Found a bug or have a suggestion? Please [open an issue](https://github.com/arturonegrete-dev/Dream-zed/issues) with:
 
 - A clear description of the problem or suggestion
 - Screenshots if applicable
